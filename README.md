@@ -60,8 +60,8 @@ This is a learning repository, so the code might not always follow production-le
 
 Feel free to reach out if you have questions or suggestions!
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: [linkedin.com/in/suhas-dev](https://www.linkedin.com/in/suhas-dev/)
+- Email: suhasm004@gmail.com
 
 ## ⭐ If This Helps You
 
